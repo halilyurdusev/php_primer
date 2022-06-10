@@ -18,7 +18,7 @@ require "names.php";
 
     $name = new nameGiver(21);
 
-    echo $name->getName("ramazan");
+    echo $name->getName("halil");
 
 
 ?>
